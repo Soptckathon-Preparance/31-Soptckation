@@ -7,5 +7,3 @@ fun main() {
 // 1. build
 // 2. origin/main (develop)을 pull 받는다
 // 3, push
-
-
