@@ -1,6 +1,6 @@
 package com.junewon.myapplication.home
 
 fun main() {
-        println("Let's eat chicken")
+        println("Are you Happy without us?")
 
 }
